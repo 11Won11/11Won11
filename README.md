@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=11Won11's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
+<p align="center">
+  <a href="https://github.com/11Won11">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&stroke=39D353&borderRadius=30&height=250&section=header&text=11Won11&fontSize=90&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Header" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" />
@@ -22,5 +25,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11Won11&theme=dracula&color=A18CD1&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11Won11&bg_color=transparent&color=8B949E&line=238636&point=39D353&title_color=39D353&hide_border=true" />
 </p>
