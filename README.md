@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/11Won11/11Won11/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/11Won11/11Won11/output/github-contribution-grid-snake-dark.svg" />
 </p>
