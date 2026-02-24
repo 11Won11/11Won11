@@ -22,6 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11Won11&show_icons=true&theme=transparent&title_color=A18CD1&text_color=737373&icon_color=A18CD1&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11Won11&layout=compact&theme=transparent&title_color=A18CD1&text_color=737373&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=11Won11&theme=dracula&no-frame=true&column=4" alt="trophy" />
 </p>
