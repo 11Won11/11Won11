@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=11Won11&theme=dracula&no-frame=true&column=4" alt="trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11Won11&theme=dracula&color=A18CD1&hide_border=true" />
 </p>
