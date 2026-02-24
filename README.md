@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=11Won11's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
+
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=python&logoColor=blue"/>
+
 <!--
 **11Won11/11Won11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
