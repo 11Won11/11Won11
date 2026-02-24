@@ -18,9 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=section&section=footer&color=timeGradient&height=50" />
-</p>
-
-<p align="center">
-  <img src="https://github-raw-mirror.vercel.app/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/11Won11/11Won11/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
