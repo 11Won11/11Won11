@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: 11Won11
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%237ed3f2&color_dots=%23161b22,%23402c52,%236930c3,%235e60ce,%2348bfe3
+            dist/github-contribution-grid-snake.svg?color_snake=#1b4332&color_dots=#ebedf0,#d8f3dc,#95d5b2,#52b788,#2d6a4f
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#24292e&color_dots=#0d1117,#161b22,#30363d,#6e7681,#bc8cff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
